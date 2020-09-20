@@ -1,0 +1,25 @@
+{
+  "name": "adonis-paginator",
+  "version": "1.0.0",
+  "description": "A package to help you easily show and achieve previous/next pagination in your Adonis Js project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvis-onobo/adonis-paginator.git"
+  },
+  "keywords": [
+    "adonisjs",
+    "pagination",
+    "adonis-paginator",
+    "pagination-in-adonisjs"
+  ],
+  "author": "Elvis Onobo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elvis-onobo/adonis-paginator/issues"
+  },
+  "homepage": "https://github.com/elvis-onobo/adonis-paginator#readme"
+}
