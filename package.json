@@ -22,5 +22,7 @@
     "url": "https://github.com/elvis-onobo/adonis-paginator/issues"
   },
   "homepage": "https://github.com/elvis-onobo/adonis-paginator#readme",
-  "dependencies": {}
+  "dependencies": {
+    "@adonisjs/fold": "^4.0.9"
+  }
 }

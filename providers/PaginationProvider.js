@@ -10,6 +10,7 @@ class PaginationProvider extends ServiceProvider {
     const View = this.app.use("Adonis/Src/View");
     const Route = this.app.use("Adonis/Src/Route");
 
+    // simple paginate
     View.global("paginate", function (dataObject, pageRoute) {
       return this.safe(
         `<div class="pagination-div">
@@ -30,7 +31,7 @@ class PaginationProvider extends ServiceProvider {
       );
     });
 
-    //   multipaginate
+    // multipaginate
   }
 }
 
